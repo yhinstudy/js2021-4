@@ -1,5 +1,11 @@
 # 202030205 김용현
 
+[04.06]
+>var / break / continue 키워드
+
+>for 반복문으로 0-100 더하기
+>역 for 반복문 / for in 반복문 / for or 반복문 / 중첩 반복문
+
 [03.30]
 >if / else if 조건문
 
